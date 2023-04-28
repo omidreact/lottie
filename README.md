@@ -7,4 +7,5 @@ npm install lottie-react-native
 <br><br>
 ![button](https://user-images.githubusercontent.com/116552870/234875755-fda6d503-e1b3-48c5-acd6-f3dc1a29124b.gif)
 <br><br>
+Use json file for animation at 21kb smallest than gif
 
